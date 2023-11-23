@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+postID,int,NO,PRI,NULL,auto_increment
+title,varchar(100),YES,,NULL,
+description,varchar(2000),YES,,NULL,
+image,varchar(100),YES,,NULL,
+userID,int,NO,MUL,NULL,
+timeID,int,NO,MUL,NULL,

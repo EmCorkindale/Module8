@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+commentID,int,NO,PRI,NULL,auto_increment
+commentContent,varchar(150),YES,,NULL,
+userID,int,NO,MUL,NULL,

@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+userID,int,NO,PRI,NULL,auto_increment
+displayName,varchar(50),NO,,NULL,
+email,varchar(75),NO,,NULL,
+password,varchar(20),YES,,NULL,
+firstName,varchar(20),YES,,NULL,
+lastName,varchar(20),YES,,NULL,

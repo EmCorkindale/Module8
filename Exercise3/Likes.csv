@@ -1,0 +1,5 @@
+Field,Type,Null,Key,Default,Extra
+likesID,int,NO,PRI,NULL,auto_increment
+userID,int,NO,MUL,NULL,
+commentID,int,NO,MUL,NULL,
+postID,int,NO,MUL,NULL,

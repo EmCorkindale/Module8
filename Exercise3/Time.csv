@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+timeID,int,NO,PRI,NULL,auto_increment
+date,date,YES,,NULL,
+Time,time,YES,,NULL,
